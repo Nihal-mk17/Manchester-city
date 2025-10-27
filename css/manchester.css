@@ -1,0 +1,192 @@
+
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&family=BBH+Sans+Bogle&family=Playwrite+US+Modern:wght@100..400&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,700&family=Titillium+Web:ital,wght@0,200;0,400;0,600;0,700;0,900;1,700&display=swap');
+
+h1 { font-family: "Bungee", sans-serif;
+  font-weight: 900;
+  font-style: normal;}
+
+h2{  font-family: "BBH Sans Bogle", sans-serif;
+  font-weight: 400; font-size: 38px;
+  font-style: normal }
+
+h3{  font-family: "Playwrite US Modern", cursive;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;}
+
+h4{ }
+h5{}
+h6{}
+p { font-family: "Bungee", sans-serif;
+  font-weight: 900;
+  font-style: normal; }
+
+p a {}
+
+a { color:red; }
+
+
+section { padding:30px 0 }
+
+
+
+/*manchester*/
+
+.head img{ height: 80px; max-width: 100%; }
+
+.banner-slider .owl-carousel .owl-nav .owl-prev{ background-color: #ED887B; width:40px; height:40px;  position: absolute;
+  left: 0px;
+  top: 150px;
+}
+.banner-slider .owl-carousel .owl-nav .owl-next{ background-color:#ED887B; width:40px; height:40px; position: absolute;
+  right:0px;
+  top: 150px;
+ }
+.banner-slider { background-color:black; }
+
+.thought, h2, p {
+	text-align: center;
+	color: white;
+}
+
+
+.city-titt {background-color: black}
+
+.logo2{width: 150px;}
+
+
+
+/* manchester united */
+.heading { 
+  display:flex; justify-content:start; align-items: center; 
+  background-color: white;}
+.heading span {
+    font-weight: 800;
+    font-size: 20px;
+    color: red;
+    display:block; }
+.heading img { padding:10px 0 }    
+.head a{ 
+  color:red; font-family: "Bungee", sans-serif;
+  font-weight: 900;
+font-style: normal;}
+
+.banner-slider {padding: 0}
+.banner-slider img { width:100%; height: 400px; object-fit:cover; }
+
+.legend img { width: 100%; height: 400px; object-fit: cover; padding:40px 0px }
+.legend p { text-align:left }
+.legend h2 { color:white; padding:30px 0px ;font-family: "Bungee", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  text-align: left;}
+.legend { background-color:red;  }
+.legend a { color:white; }
+
+.legend-image { 
+  background-color:black; text-align:center; } 
+.legend-image h2 { 
+  color:white; }
+.legend-image img {
+  max-width: 100%; height:350px; object-fit: cover; padding:30px 0 }
+.legend-image a {color:red; } 
+.legend-image p{ text-align:center;  }
+.legend-image .owl-carousel .owl-nav .owl-prev{ background-color: #ED887B; width:40px; height:40px; position: absolute;
+  left: 0px;
+  top: 150px;
+ }
+.legend-image .owl-carousel .owl-nav .owl-next{ background-color:#ED887B; width:40px; height:40px; position: absolute;
+  right: 0px;
+  top: 150px;
+ }
+
+
+
+.banneer-2 { padding:0 }
+
+.banneer-2 img { width:100% ; height:300px; object-fit: cover;   background-color:black; } 
+
+.tittle { background-color:black; }
+
+.tittle img { width:100%; height:300px;object-fit:cover; padding:30px 0; }
+
+.tittle h2 { color:white;font-size:25px }
+
+.stadium { background-color:red; }
+
+.stadium img { height: 300px; width: 100%; object-fit: cover; padding: 20px 0}
+
+.stadium p{ color:white; text-align:left; }
+
+.stadium h1 {padding: 10px 0; color:white; font-family: "Bungee", sans-serif;
+font-weight: 900;
+font-style: normal; }
+
+.adress ,.contact { display:flex; align-items:center; justify-content:center; flex-direction:column; min-height:100%; width: 100% ;color: white;}
+.call { background-color:red; color:white; display:flex; align-items:center; justify-content:center; flex-direction:column; min-height:100%; padding:30px 0 ;width:100% }
+.index-contact {text-align: center; display:grid; background-color:black;  }
+.index-contact h3 { font-family: "Bungee", sans-serif;
+  font-weight: 900;
+  font-style: normal; }
+
+.footer {   justify-content:start;  background-color: white;}
+
+.footer img { height: 80px; max-width: 100%; padding: 10px 0;}
+.footer-div { display:flex; align-items:center; }
+.footer span { font-weight: 800;
+    font-size: 20px;
+    color: red;
+    display:block;} 
+.footer a { color:red; }
+
+
+                                  /*united aboutt*/
+
+
+.united-about { background-color:black; }
+
+.united-about img { width: 100%; height: 400px; object-fit: cover; padding:40px 0px  }
+
+.united-about p { text-align:left;color:red }
+
+.united-about h1 { color:red; padding:50px 0px ;font-family: "Playwrite DE Grund Guides", cursive;
+  font-weight: 400;
+  font-style: normal;}
+
+.united-about a { color:white; }  
+
+.about-tittle { text-align:center; background-color: red;}  
+
+.about-tittle h2 { color:black;  }
+
+.about-tittle p { color:black; } 
+
+.about-tittle img { width:100%; height:300px;object-fit:cover; padding:30px 0;}
+
+.iconic-moment { text-align:center; }
+
+.rooney { background-color:black; color:red; }
+
+.rooney img { height: 400px; width: 450px; object-fit: cover; padding: 20px 0; }
+
+.rooney h1 { padding:30px 0; font-family: "Playwrite DE Grund Guides", cursive;
+  font-weight: 400;
+  font-style: normal; }  
+
+.rooney p{ color:red }  
+
+
+                        /* contact */
+
+.contact-section { background-color:red; color:black;
+ display:flex; align-items:center;
+ justify-content:center; flex-direction:column;
+  min-height:100%;  padding:60px 0;background-color:black }
+
+.people-contact { text-align:center; padding:30px 0 }
+
+.people-contact img { width:100%; height:300px; object-fit:cover; } 
+
+.people-contact h2 { color:black ; padding: 10px 0}
+
+.people-contact h5 { color:black; }
